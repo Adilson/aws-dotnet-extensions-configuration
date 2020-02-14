@@ -22,7 +22,7 @@
 
     <CodeAnalysisRuleSet>../ruleset.xml</CodeAnalysisRuleSet>
 
-    <Version>1.2.0</Version>
+    <Version>1.2.0-tkrw</Version>
   </PropertyGroup>
 
   <Choose>
